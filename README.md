@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, Aku Vincent</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=4000&pause=1000&color=2B5CAE&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+Aku+Vincent" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">Suka Duren</h3>
 
 <p align="center">
