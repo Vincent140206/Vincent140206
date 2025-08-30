@@ -11,7 +11,7 @@
 <h3 align="center">💻 Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,flutter,js,nodejs,mongodb,mysql,github" />
+  <img src="https://skillicons.dev/icons?i=laravel,flutter,js,nodejs,mongodb,mysql,postman,github" />
 </p>
 
 ---
